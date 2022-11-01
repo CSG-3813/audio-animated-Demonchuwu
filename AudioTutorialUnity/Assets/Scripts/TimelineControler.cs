@@ -1,7 +1,7 @@
 /***
- * Author: Stu Dent
+ * Author: Cristian Misla
  * Create: 10/18/22
- * Modified:
+ * Modified: 11/1/22
  * Description: Controls when the timeline plays
  ***/
 
